@@ -1,6 +1,0 @@
-{
-    "name": "LITegE4ZxNSz2rI2EdvtHg==",
-    "value": "/p3xDZ1HrnCa/YxAy5St4w==",
-    "expires": "2025-01-01T00:00:00",
-    "domain": "+/uyHhznxaHmX4zFBPoZrA=="
-}
