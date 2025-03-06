@@ -1,6 +1,0 @@
-{
-    "name": "myCookie",
-    "value": "myValue",
-    "expires": "2025-01-01T00:00:00",
-    "domain": "example.com"
-}
