@@ -1,0 +1,14 @@
+[
+    {
+        "name": "session",
+        "value": "616263313233",
+        "exp": "2025-01-01T00:00:00+00:00",
+        "domain": "example.com"
+    },
+    {
+        "name": "auth",
+        "value": "78797a343536",
+        "exp": "2026-02-15T12:30:00+00:00",
+        "domain": "example.com"
+    }
+]
